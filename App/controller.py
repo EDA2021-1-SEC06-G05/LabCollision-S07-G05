@@ -40,6 +40,8 @@ def initCatalog():
     """
     catalog = model.newCatalog()
     return catalog
+    
+# ggggg
 
 # ======================================
 # Funciones para la carga de datos
